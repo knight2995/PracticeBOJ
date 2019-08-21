@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# 이그노어
+.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
